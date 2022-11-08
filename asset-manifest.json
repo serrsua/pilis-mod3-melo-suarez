@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/pilis-mod3-melo-suarez-2/static/css/main.627558e7.css",
-    "main.js": "/pilis-mod3-melo-suarez-2/static/js/main.3e1de730.js",
-    "static/media/earth.gif": "/pilis-mod3-melo-suarez-2/static/media/earth.d62542b5f50cbc044177.gif",
-    "index.html": "/pilis-mod3-melo-suarez-2/index.html",
-    "main.627558e7.css.map": "/pilis-mod3-melo-suarez-2/static/css/main.627558e7.css.map",
-    "main.3e1de730.js.map": "/pilis-mod3-melo-suarez-2/static/js/main.3e1de730.js.map"
+    "main.css": "/pilis-mod3-melo-suarez/static/css/main.627558e7.css",
+    "main.js": "/pilis-mod3-melo-suarez/static/js/main.c2df42a0.js",
+    "static/media/earth.gif": "/pilis-mod3-melo-suarez/static/media/earth.d62542b5f50cbc044177.gif",
+    "index.html": "/pilis-mod3-melo-suarez/index.html",
+    "main.627558e7.css.map": "/pilis-mod3-melo-suarez/static/css/main.627558e7.css.map",
+    "main.c2df42a0.js.map": "/pilis-mod3-melo-suarez/static/js/main.c2df42a0.js.map"
   },
   "entrypoints": [
     "static/css/main.627558e7.css",
-    "static/js/main.3e1de730.js"
+    "static/js/main.c2df42a0.js"
   ]
 }
