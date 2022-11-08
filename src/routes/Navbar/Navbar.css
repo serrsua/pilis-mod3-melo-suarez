@@ -1,0 +1,28 @@
+.new-card-btn {
+  border: 2px solid #ffffff; 
+  padding: 10px; 
+  background-color: #212529; 
+  color: #ffffff; 
+  text-decoration: none;
+  text-transform: uppercase;
+  border-radius: 50px;
+  align-items: center;
+}
+
+.new-card-btn:hover {
+  color: #ef8e38;
+  border: 2px solid #ffffff;
+  box-shadow: #ffffff 0px 3px 8px;
+}
+
+.navbar-brand { 
+    padding: 10px; 
+    background-color: #212529; 
+    color: #ffffff; 
+    text-transform: uppercase;
+    align-items: center;
+}
+
+.logo img:hover {
+  width: 80%;
+}

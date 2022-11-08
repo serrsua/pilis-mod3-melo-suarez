@@ -1,0 +1,16 @@
+.App {
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  background: #108dc7;
+  background: -webkit-linear-gradient(
+    to top,
+    #ef8e38,
+    #108dc7
+  );
+  background: linear-gradient(
+    to top,
+    #ef8e38,
+    #108dc7
+  );
+}
