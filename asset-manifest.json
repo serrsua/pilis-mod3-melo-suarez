@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/pilis-mod3-melo-suarez/static/css/main.627558e7.css",
+    "main.js": "/pilis-mod3-melo-suarez/static/js/main.e5ecbea4.js",
+    "static/media/earth.gif": "/pilis-mod3-melo-suarez/static/media/earth.d62542b5f50cbc044177.gif",
+    "index.html": "/pilis-mod3-melo-suarez/index.html",
+    "main.627558e7.css.map": "/pilis-mod3-melo-suarez/static/css/main.627558e7.css.map",
+    "main.e5ecbea4.js.map": "/pilis-mod3-melo-suarez/static/js/main.e5ecbea4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.627558e7.css",
+    "static/js/main.e5ecbea4.js"
+  ]
+}
